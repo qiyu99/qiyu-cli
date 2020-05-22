@@ -1,5 +1,5 @@
 # qiyu-cli
-一个前端脚手架工具
+简单实现一个前端脚手架工具
 
 ```
 $ qiyu init <projectName>
